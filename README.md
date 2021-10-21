@@ -15,7 +15,8 @@
 # 3. Thay đổi kích thước và cắt ảnh
 
 - Ta xem các tọa độ của ảnh trong open cv:
-<src img = 'https://i.imgur.com/IGD7TwR.jpg'>
+<img src = 'https://i.imgur.com/IGD7TwR.jpg'>
+
  - 3.1. Resize ảnh
  - 3.2. Cắt ảnh
 
