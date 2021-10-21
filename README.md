@@ -1,9 +1,16 @@
 # Phần 1: OpenCv_Basic
 
 # 1. Load ảnh, video, webcam
-## 1.1. Load ảnh
-## 1.2. Load video
-## 1.3. Load webcam/camera
+ - 1.1. Load ảnh
+ - 1.2. Load video
+ - 1.3. Load webcam/camera
+
+# 2. Một số hàm cơ bản
+ - 2.1. Chuyển đen trắng
+ - 2.2. Làm mờ ảnh
+ - 2.3. Detect cạnh
+ - 2.4. Làm rõ detect cạnh
+ - 2.5. Làm mờ detect cạnh
 
 # Phần 2: OpenCV_projects
 
