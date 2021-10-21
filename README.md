@@ -20,7 +20,7 @@
  - 3.1. Resize ảnh
  - 3.2. Cắt ảnh
 
-# 4. Hình vẽ và text
+# 4. Hình vẽ và text [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/4_Shape_text.py)
  - 4.1. Vẽ đường thẳng
  - 4.2. Vẽ hình chữ nhật
  - 4.3. Vẽ hình tròn
