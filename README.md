@@ -20,6 +20,12 @@
  - 3.1. Resize ảnh
  - 3.2. Cắt ảnh
 
+# 4. Hình vẽ và text
+ - 4.1. Vẽ đường thẳng
+ - 4.2. Vẽ hình chữ nhật
+ - 4.3. Vẽ hình tròn
+ - 4.4. Thêm text
+
 # Phần 2: OpenCV_projects
 
 # 1. Xác định vật thể/ người qua webcam/ video/ image bằng Yolo
