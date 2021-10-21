@@ -1,7 +1,7 @@
 # Phần 1: OpenCv_Basic
 
 # 1. Load ảnh, video, webcam
- - 1.1. Load ảnh
+ - 1.1. Load ảnh [click here]('https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/1_1_load_img.py')
  - 1.2. Load video
  - 1.3. Load webcam/camera
 
