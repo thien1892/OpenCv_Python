@@ -9,8 +9,8 @@
  - 2.1. Chuyển đen trắng
  - 2.2. Làm mờ ảnh
  - 2.3. Detect cạnh
- - 2.4. Làm rõ detect cạnh
- - 2.5. Làm mờ detect cạnh
+ - 2.4. Mở rộng detect cạnh
+ - 2.5. Thu hẹp detect cạnh
 
 # Phần 2: OpenCV_projects
 
