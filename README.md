@@ -1,11 +1,11 @@
 # Phần 1: OpenCv_Basic
 
 # 1. Load ảnh, video, webcam
- - 1.1. Load ảnh [click here]('https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/1_1_load_img.py')
- - 1.2. Load video
- - 1.3. Load webcam/camera
+ - 1.1. Load ảnh [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/1_1_load_img.py)
+ - 1.2. Load video [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/1_2_load_video.py)
+ - 1.3. Load webcam/camera [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/1_3_load_webcam.py)
 
-# 2. Một số hàm cơ bản
+# 2. Một số hàm cơ bản [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/2_Ham_co_ban.py)
  - 2.1. Chuyển đen trắng
  - 2.2. Làm mờ ảnh
  - 2.3. Detect cạnh
