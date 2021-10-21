@@ -12,7 +12,7 @@
  - 2.4. Mở rộng detect cạnh
  - 2.5. Thu hẹp detect cạnh
 
-# 3. Thay đổi kích thước và cắt ảnh
+# 3. Thay đổi kích thước và cắt ảnh [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/3_Resize_and_crop_img.py)
 
 - Ta xem các tọa độ của ảnh trong open cv:
 <img src = 'https://i.imgur.com/IGD7TwR.jpg'>
