@@ -10,7 +10,8 @@ cv2.rectangle(img, (50,50), (600,400), (0,255,0), 4)
 # Vẽ hình tròn
 cv2.circle(img, (img.shape[1] // 2, img.shape[0] //2), 100, (0,0,255), 3)
 # Thêm text
-cv2.putText(img, 'Tran Van Thien', (img.shape[1] // 2, img.shape[0] //2), cv2.FONT_HERSHEY_COMPLEX, 1, (0,150,0), 3)
+cv2.putText(img, 'Tran Van Thien', (img.shape[1] // 2, img.shape[0] //2), \
+    cv2.FONT_HERSHEY_COMPLEX, 1, (0,150,0), 3)
 
 # Hiển thị ảnh
 cv2.imshow('Ket qua', img)
