@@ -12,6 +12,13 @@
  - 2.4. Mở rộng detect cạnh
  - 2.5. Thu hẹp detect cạnh
 
+# 3. Thay đổi kích thước và cắt ảnh
+
+- Ta xem các tọa độ của ảnh trong open cv:
+<src img = 'https://i.imgur.com/IGD7TwR.jpg'>
+ - 3.1. Resize ảnh
+ - 3.2. Cắt ảnh
+
 # Phần 2: OpenCV_projects
 
 # 1. Xác định vật thể/ người qua webcam/ video/ image bằng Yolo
