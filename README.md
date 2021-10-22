@@ -38,5 +38,13 @@
 
 # Phần 2: OpenCV_projects
 
+## 1. Scan tài liệu
+- Bước 1: Read webcam/ image
+- Bước 2: Xử lý ảnh về dò cạnh
+- Bước 3: Từ bức ảnh dò cạnh, ta dò đường bao (contour):
+    - Lấy vùng có số cạnh == 4
+    - Lấy vùng có diện tích lớn nhất
+- Bước 4: Sau bước 3, ta xác định được tọa độ 4 góc cần lấy của khung hình. Ta sử dụng warp perspective để chuyển khung hình về kích thước ta cần chọn.
+
 ## 1. Xác định vật thể/ người qua webcam/ video/ image bằng Yolo
 #
