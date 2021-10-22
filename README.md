@@ -26,13 +26,13 @@
  - 4.3. Vẽ hình tròn
  - 4.4. Thêm text
 
-# 5. Warping perspective (Bẻ cong phối cảnh ~~~ không biết nên dịch ra sao)
+# 5. Warping perspective (Bẻ cong phối cảnh ~~~ không biết nên dịch ra sao) [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/C5_warping_perspective.py)
 
-# 6. Join nhiều ảnh
+# 6. Join nhiều ảnh [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/C6_join_img.py)
 
-# 7. Phát hiện màu sắc (Colour Detection)
+# 7. Phát hiện màu sắc (Colour Detection) [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/C7_detect_color.py)
 
-# 8. Phát hiện đường viền và hình dạng (Contouring and shape detection)
+# 8. Phát hiện đường viền và hình dạng (Contouring and shape detection) [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/C8_Contouring_shape_detection.py)
 
 # Phần 2: OpenCV_projects
 
