@@ -34,6 +34,8 @@
 
 ## 8. Phát hiện đường viền và hình dạng (Contouring and shape detection) [click here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_basic/C8_Contouring_shape_detection.py)
 
+## 9. Detech khuôn mặt
+
 # Phần 2: OpenCV_projects
 
 ## 1. Xác định vật thể/ người qua webcam/ video/ image bằng Yolo
