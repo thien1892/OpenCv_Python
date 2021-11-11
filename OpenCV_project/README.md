@@ -16,4 +16,4 @@
 - Dùng Open-CV để mở webcam/ camera IP /video của bạn và enjoy!!!
 - [code yolo here](https://github.com/thien1892/OpenCv_Python/blob/main/OpenCV_project/yolo3.py)
 
-<img src = 'https://i.imgur.com/IE1qpMN.jpg'>
+<img src = 'https://i.imgur.com/7ojeMcW.jpg'>
